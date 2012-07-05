@@ -1,0 +1,16 @@
+{
+  "name": "Throw URL",
+  "version": "0.1",
+  "manifest_version": 2,
+  "description": "Throw URL at another computer",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_title": "Throw URL",
+    "default_popup": "popup.html"
+  },
+  "options_page": "options.html",
+  "permissions": [
+    "http://*/",
+    "tabs"
+  ]
+}
