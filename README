@@ -1,0 +1,7 @@
+Usage:
+Run the server on the computer connected to your TV
+python server/throw_url_server.py <port_number>
+
+Install the Chrome extension in your laptop from https://github.com/downloads/harshdeep/throw_url/throw_url.crx. Click on the Football icon on the top right and add the IP address of the computer connected to your TV and the port number you selected above separated by ':'.
+
+Now, find a Youtube video on your laptop, click on the extension button and watch in on your TV!
